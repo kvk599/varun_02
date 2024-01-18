@@ -1,4 +1,4 @@
-# varun_02
+# Varun_02
 Linux "ls" commands
 ls Command:
 ===========
@@ -16,3 +16,8 @@ Various options of ls Command:
 8) ls -a : a means all To display all files including hidden files. Here . and .. also will be displayed.
 9) ls -A : A means almost all To display all files including hidden files except . and ..
 10) ls -F : To display all files by type.
+11) ls -f : To disable colors
+12) ls -i : To display all files including inode number.
+13) ls -R : R means Recursive.
+14) ls -s : The number of blocks used by file will be displayed.
+15) ls -h : display in human readable format
